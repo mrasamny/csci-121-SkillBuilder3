@@ -1,4 +1,4 @@
-<div style="text-align:center;"><img src="/Users/mrasamny/Library/CloudStorage/OneDrive-DelawareStateUniversity/@PEMaCS/Images/PEMaCS-Logos/New/pemacs-logo.png"></div>
+<div style="text-align:center;"><img src="src/main/resources/pemacs-logo.png"></div>
 # Skill Builder 3 - Defining Classes and Methods
 
 ## Learning Outcomes
